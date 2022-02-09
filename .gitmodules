@@ -1,0 +1,6 @@
+[submodule "informatics_projects/artificial_genomes"]
+	path = informatics_projects/artificial_genomes
+	url = https://gitlab.inria.fr/ml_genetics/public/artificial_genomes.git
+[submodule "informatics_projects/AMBER"]
+	path = informatics_projects/AMBER
+	url = https://github.com/zj-zhang/AMBER.git
